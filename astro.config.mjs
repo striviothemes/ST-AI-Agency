@@ -9,7 +9,7 @@ import sitemap from '@astrojs/sitemap';
  * Set the SITE_URL environment variable when you build, or replace the
  * placeholder below with your own domain.
  */
-const site = process.env.SITE_URL ?? 'https://your-demo-url.example.com';
+const site = process.env.SITE_URL ?? 'https://st-ai-agency.vercel.app';
 
 /**
  * Optional sub-path, e.g. "/st-ai-agency" for a GitHub Pages project site.

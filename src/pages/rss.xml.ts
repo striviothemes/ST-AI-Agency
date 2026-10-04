@@ -9,7 +9,7 @@ export async function GET(context: APIContext) {
   return rss({
     title: `${siteConfig.name} — Insights`,
     description: siteConfig.description,
-    site: new URL(import.meta.env.BASE_URL, context.site ?? 'https://your-demo-url.example.com').href,
+    site: new URL(import.meta.env.BASE_URL, context.site ?? 'https://st-ai-agency.vercel.app').href,
     items: posts.map((post) => ({
       title: post.data.title,
       description: post.data.description,
