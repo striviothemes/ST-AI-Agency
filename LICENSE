@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-Third-party assets (not covered by the MIT License above)
--------------------------------------------------------------------------------
-
-Photographs in public/images/
-  Sourced from pxhere.com and released under CC0 1.0 Universal (public domain
-  dedication). See README.md › Images for the source page of every file.
-  https://creativecommons.org/publicdomain/zero/1.0/
-
-Fonts (installed from npm, bundled into the build output)
-  Outfit — Copyright 2021 The Outfit Project Authors — SIL Open Font License 1.1
-  Inter Tight — Copyright 2022 The Inter Project Authors — SIL Open Font License 1.1
-  Packaged by Fontsource (@fontsource-variable/outfit, @fontsource-variable/inter-tight).
-  https://openfontlicense.org

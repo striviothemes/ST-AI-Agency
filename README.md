@@ -336,7 +336,12 @@ For any other host, run `npm run build` and upload the contents of `dist/`. Conf
 
 ## License
 
-The theme code is released under the [MIT License](LICENSE). The bundled photographs are CC0 and the fonts use the SIL Open Font License 1.1. See [LICENSE](LICENSE) for details.
+The theme is released under the [MIT License](LICENSE).
+
+Third-party assets keep their own licenses and are not covered by MIT:
+
+- **Photographs** in `public/images/` are CC0 1.0 (public domain). Sources are listed under [Images](#images).
+- **Fonts** Outfit and Inter Tight are licensed under the SIL Open Font License 1.1. See [Fonts](#fonts).
 
 ## Credits
 
