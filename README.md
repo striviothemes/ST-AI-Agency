@@ -4,7 +4,7 @@
 
 > *AI agents that run the work, not the demo.*
 
-![ST AI Agency — free Astro theme for AI agencies](.github/preview.jpg)
+![ST AI Agency — free Astro theme for AI agencies](public/preview.jpg)
 
 ## Demo
 
@@ -92,8 +92,7 @@ This serves the production build locally. Run `npm run check` for TypeScript and
 ├── public/
 │   ├── images/              # Optimised WebP photography (CC0)
 │   ├── favicon.svg          # Monogram favicon
-│   └── og-image.jpg         # Default social sharing image (1200×630)
-├── .github/preview.jpg      # Theme preview image (1600×900)
+│   └── preview.jpg          # Theme preview, also the default social sharing image (1600×900)
 ├── src/
 │   ├── components/
 │   │   ├── icons/
@@ -279,7 +278,7 @@ All photographs are local WebP files in `public/images/`. They were downloaded f
 | `blog-prototype-to-production.webp` | [pxhere.com/en/photo/723648](https://pxhere.com/en/photo/723648) |
 | `blog-measuring-roi.webp` | [pxhere.com/en/photo/611848](https://pxhere.com/en/photo/611848) |
 
-The people in these stock photos are not connected to the fictional names used in the demo. `public/og-image.jpg` and `.github/preview.jpg` are composed from screenshots of the theme itself (which include `ai-agency-hero.webp`) plus the theme's own logo and typography.
+The people in these stock photos are not connected to the fictional names used in the demo. `public/preview.jpg` is composed from screenshots of the theme itself (which include `ai-agency-hero.webp`) plus the theme's own logo and typography.
 
 **Replacing images.** Keep roughly the same aspect ratios (listed in each component's `width`/`height` attributes) and save as WebP for the best results. The theme applies its warm duotone filter through CSS, so any photo picks up the brand look.
 

@@ -38,8 +38,8 @@ export const siteConfig: SiteConfig = {
   seo: {
     titleSeparator: ' — ',
     defaultTitle: 'ST AI Agency — AI agents that run the work',
-    ogImage: '/og-image.jpg',
-    ogImageAlt: 'ST AI Agency — AI agents that run the work, not the demo.',
+    ogImage: '/preview.jpg',
+    ogImageAlt: 'ST AI Agency theme preview showing the homepage on desktop and mobile.',
     twitterHandle: undefined,
     themeColor: '#EC5A11',
   },
